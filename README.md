@@ -14,6 +14,8 @@ Tasks are to
 
 In our script run_analysis.R,
 
+The Samsung data is assumed to be in a folder called "UCI".
+
 `train_x` is a data frame of the measurements from “UCI/train/X_train.txt"
 
 `train_y` stores the activity numbers from "UCI/train/Y_train.txt"
